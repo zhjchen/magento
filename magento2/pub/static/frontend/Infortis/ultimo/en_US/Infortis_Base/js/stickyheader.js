@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Infortis/Base/view/frontend/web/js/stickyheader.js

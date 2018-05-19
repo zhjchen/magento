@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Infortis/Infortis/view/frontend/web/js/enquire.js

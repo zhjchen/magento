@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Infortis/Infortis/view/adminhtml/web/js/jquery/spectrum/spectrum.js

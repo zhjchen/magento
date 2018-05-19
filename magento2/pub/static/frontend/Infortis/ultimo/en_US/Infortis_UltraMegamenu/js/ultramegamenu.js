@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Infortis/UltraMegamenu/view/frontend/web/js/ultramegamenu.js
